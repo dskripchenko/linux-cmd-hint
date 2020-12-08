@@ -99,8 +99,8 @@ up, down история команд
 
 * ```yum update```
 * ```yum install mc htop nginx mariadb-server -y```
-* ```service start nginx```
-* ```service start mariadb```
+* ```service nginx start```
+* ```service mariadb start```
 * ```mysql_secure_installation```
 * ```yum install epel-release -y```
 * ```rpm -Uvh http://rpms.famillecollet.com/enterprise/remi-release-7.rpm```
